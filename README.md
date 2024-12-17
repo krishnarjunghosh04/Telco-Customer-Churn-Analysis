@@ -18,7 +18,7 @@ This project performs an exploratory data analysis (EDA) to understand the facto
 
 ## Installation:
 1. Clone the repository:  
-   `git clone https://github.com/YOUR_USERNAME/Customer-Churn-Analysis.git`
+   `git clone https://github.com/krishnarjunghosh04/Telco-Customer-Churn-Analysis`
 
 2. Install the required libraries:  
    `pip install -r requirements.txt`
